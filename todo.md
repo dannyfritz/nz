@@ -1,0 +1,4 @@
+- [x] Parse path off of args
+- [x] Open file from args
+- [ ] Parse `.md` to AST
+- [ ] Display outline to stdout
